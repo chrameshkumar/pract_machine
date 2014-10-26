@@ -2,5 +2,6 @@ pract_machine
 =============
 
 exercise
-Subitted RMD file willopn as htl docuent
-HTML version is also submitted
+
+Submitted .RMD file will open as html document on clicking
+.HTML file is also submitted
